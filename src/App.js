@@ -11,7 +11,7 @@ class App extends Component {
           <h1 className="App-title">Welcome to DITS</h1>
         </header>
         <p className="App-intro">
-           <code>src/Sucessful</code> 
+           <code>Sucessful</code> 
         </p>
       </div>
     );
